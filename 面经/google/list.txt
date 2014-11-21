@@ -1,0 +1,14 @@
+Interview problem set:
+1. Rate limiter
+
+2. String serialize & de-serialize  KO
+
+3. Use the shorest unique prefix to represent each word in the array
+http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=107220&extra=page%3D1%26filter%3Dsortid%26sortid%3D311&page=1
+
+4. mutiple iterator
+
+5. split string by space, but don't split the content in ""  KO
+
+6. implement read(int charNum) by using read4K()
+http://www.careercup.com/question?id=14424684
